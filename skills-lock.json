@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "langsmith-custom-apps": {
+      "source": "langchain-ai/langsmith-skills",
+      "sourceType": "github",
+      "skillPath": "config/skills/langsmith-custom-apps/SKILL.md",
+      "computedHash": "505b22f345787b6f0d534f528865f422ec0fff56c3a1e0854877e36ed96a087b"
+    },
+    "langsmith-dataset": {
+      "source": "langchain-ai/langsmith-skills",
+      "sourceType": "github",
+      "skillPath": "config/skills/langsmith-dataset/SKILL.md",
+      "computedHash": "9f8f7abcffc73ee0b03550631cce90ff78d6b9e58d99ec51a049dd1c3e430fa0"
+    },
+    "langsmith-evaluator": {
+      "source": "langchain-ai/langsmith-skills",
+      "sourceType": "github",
+      "skillPath": "config/skills/langsmith-evaluator/SKILL.md",
+      "computedHash": "c113785f21f5b1fc90f0d925348482cdad3917b0e1bbdd5277a3edebd590767c"
+    },
+    "langsmith-trace": {
+      "source": "langchain-ai/langsmith-skills",
+      "sourceType": "github",
+      "skillPath": "config/skills/langsmith-trace/SKILL.md",
+      "computedHash": "6b47689e6c44f0acf61d1384684170b69316bce0ed4d3185a4e91ce5aad5c0f1"
+    }
+  }
+}
