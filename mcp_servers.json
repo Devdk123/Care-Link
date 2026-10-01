@@ -1,0 +1,6 @@
+{
+  "livekit-docs": {
+    "url": "https://docs.livekit.io/mcp",
+    "description": "Official LiveKit Documentation MCP Server for LiveKit Telephony, SIP Outbound, and Agent Dispatch"
+  }
+}
