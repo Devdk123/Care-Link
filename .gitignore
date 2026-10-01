@@ -1,0 +1,29 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Local Netlify folder
+.netlify
+
+# External extract workspace
+aurag/
+
+# Python cache & artifacts
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.runtime/
+
+# Python Virtual Environments
+.venv/
+venv/
+backend/.venv/
+env/
